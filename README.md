@@ -1,0 +1,1 @@
+# hexomc-bot-legal
