@@ -48,11 +48,6 @@ nav {
   letter-spacing: .06em;
   color: white;
   text-decoration: none;
-  transition: 0.3s ease all;
-}
-.brand:hover {
-  transform: translateY(8px);
-    border:2px solid #263458;
 }
 .brand span {
   color: #8baaff;
