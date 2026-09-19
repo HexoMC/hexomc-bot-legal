@@ -116,8 +116,12 @@ footer {
   border-radius: 16px;
   text-decoration: none;
   background: #141c2c;
+  transition: 0.3s ease all;
 }
-
+.card:hover {
+  transform: translateY(8px);
+    border:2px solid #263458;
+}
 .card p {
   color: #b5c0d7;
 }
